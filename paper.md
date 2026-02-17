@@ -18,11 +18,11 @@ authors:
     corresponding: true # (This is how to denote the corresponding author)
     affiliation: 1
   - name: N. Sime
-    orcid: 0000-0000-0000-0000
+    orcid: 0000-0002-2319-048X
     equal-contrib: true
     affiliation: 1  # (Multiple affiliations must be quoted)
   - name: Peter E. van Keken
-    orcid: 0000-0000-0000-0000
+    orcid: 0000-0003-0377-8830
     equal-contrib: true
     affiliation: 1  # (Multiple affiliations must be quoted)
 # - given-names: Ludwig
@@ -30,9 +30,9 @@ authors:
 #   surname: Beethoven
 #   affiliation: 3
 affiliations:
- - name: Lyman Spitzer, Jr. Fellow, Princeton University, United States
+ - name: Earth and Planets Laboratory, Carnegie Intitution for Science, Washington D.C., United States
    index: 1
-   ror: 00hx57361
+   ror: https://ror.org/04jr01610
  - name: Institution Name, Country
    index: 2
  - name: Independent Researcher, Country
