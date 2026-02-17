@@ -9,14 +9,15 @@ tags:
 authors:
   - name: Cian R. Wilson
     orcid: 0000-0002-4083-6529
-    equal-contrib: true
+    corresponding: true # (This is how to denote the corresponding author)
     affiliation: 1  # (Multiple affiliations must be quoted)
+    equal-contrib: true
   - name: Cameron Seebeck
     equal-contrib: true # (This is how you can denote equal contributions between multiple authors)
     affiliation: 1
   - name: Kidus Teshome
-    corresponding: true # (This is how to denote the corresponding author)
     affiliation: 1
+    equal-contrib: true
   - name: Nate Sime
     orcid: 0000-0002-2319-048X
     equal-contrib: true
@@ -41,7 +42,7 @@ Plate tectonics ... subduction zones ... volcanoes, earthquakes,.... metamorphis
 
 `FEniCS-SZ` is cool and is based on @Wilson2023-hr.
 
-`FEniCS-SZ` is intended also for classroom use and augments the FEniCSX Tutorial [@FEniCSX].
+`FEniCS-SZ` is intended also for classroom use and augments the FEniCSX Tutorial [@fenicsx].
 
 # State of the field                                                                                                                  
 
