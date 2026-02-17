@@ -1,5 +1,5 @@
 ---
-title: 'FEniCS-SZ: two-dimensional modeling of the thermal structure of subduction zones"
+title: 'FEniCS-SZ: two-dimensional modeling of the thermal structure of subduction zones'
 tags:
   - Python
   - Jupyter
