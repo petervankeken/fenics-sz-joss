@@ -196,12 +196,11 @@ Figure sizes can be customized by adding an optional second parameter:
 
 # AI usage disclosure
 
-No generative AI tools were used in the development of this software, the writing
-of this manuscript, or the preparation of supporting materials.
+No information or code was harmed by AI.
 
 # Acknowledgements
 
-We acknowledge contributions from Brigitta Sipocz, Syrtis Major, and Semyeong
-Oh, and support from Kathryn Johnston during the genesis of this project.
+We acknowledge support from the National Science Foundation (NSF) grants (EAR-1850634 and EAR-202102) and
+the Carnegie Institution for Science through its summer intern program sponsored in part by NSF XXXX.
 
 # References
