@@ -1,26 +1,34 @@
 ---
-title: 'Gala: A Python package for galactic dynamics'
+title: 'FEniCS-SZ: two-dimensional modeling of the thermal structure of subduction zones"
 tags:
   - Python
-  - astronomy
-  - dynamics
-  - galactic dynamics
-  - milky way
+  - Jupyter
+  - geology and geophysics
+  - finite element methods
+  - benchmarking
 authors:
-  - name: Adrian M. Price-Whelan
+  - name: Cian R. Wilson
     orcid: 0000-0000-0000-0000
     equal-contrib: true
-    affiliation: "1, 2" # (Multiple affiliations must be quoted)
-  - name: Author Without ORCID
+    affiliation: 1  # (Multiple affiliations must be quoted)
+  - name: Cameron Seebeck
     equal-contrib: true # (This is how you can denote equal contributions between multiple authors)
-    affiliation: 2
-  - name: Author with no affiliation
+    affiliation: 1
+  - name: Kidus Teshome
     corresponding: true # (This is how to denote the corresponding author)
-    affiliation: 3
-  - given-names: Ludwig
-    dropping-particle: van
-    surname: Beethoven
-    affiliation: 3
+    affiliation: 1
+  - name: N. Sime
+    orcid: 0000-0000-0000-0000
+    equal-contrib: true
+    affiliation: 1  # (Multiple affiliations must be quoted)
+  - name: Peter E. van Keken
+    orcid: 0000-0000-0000-0000
+    equal-contrib: true
+    affiliation: 1  # (Multiple affiliations must be quoted)
+# - given-names: Ludwig
+#   dropping-particle: van
+#   surname: Beethoven
+#   affiliation: 3
 affiliations:
  - name: Lyman Spitzer, Jr. Fellow, Princeton University, United States
    index: 1
