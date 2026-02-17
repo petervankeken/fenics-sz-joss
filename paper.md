@@ -42,7 +42,7 @@ Plate tectonics ... subduction zones ... volcanoes, earthquakes,.... metamorphis
 
 `FEniCS-SZ` is cool and is based on @Wilson2023-hr.
 
-`FEniCS-SZ` is intended also for classroom use and augments the FEniCSX Tutorial [@fenicsx].
+`FEniCS-SZ` is intended also for classroom use and augments the FEniCSX Tutorial [@fenicsx], which is itself built on the FEniCS Tutorial [@Langtangen2016].:
 
 # State of the field                                                                                                                  
 
