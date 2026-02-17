@@ -18,7 +18,7 @@ authors:
   - name: Kidus Teshome
     affiliation: 1
     equal-contrib: true
-  - name: Nate Sime
+  - name: Nathan Sime
     orcid: 0000-0002-2319-048X
     equal-contrib: true
     affiliation: 1  # (Multiple affiliations must be quoted)
@@ -42,7 +42,11 @@ Plate tectonics ... subduction zones ... volcanoes, earthquakes,.... metamorphis
 
 `FEniCS-SZ` is cool and is based on @Wilson2023-hr.
 
-`FEniCS-SZ` is intended also for classroom use and augments the FEniCSX Tutorial [@fenicsx], which is itself built on the FEniCS Tutorial [@Langtangen2016].:
+`FEniCS-SZ` is intended also for classroom use and interactive work via a Jupyter notebooks [@fenics-szj] 
+that explore the FEM examples in @Wilson2023-hr.
+The didactic nature of these tutorials (progressing from the stand-alone Poisson and Stokes equations, reproduction of mantle convection benchmarks, 
+to the fully coupledset of time-dependent equations used in the subduction models)
+augments the FEniCSX Tutorial [@fenicsx], which is itself built on the FEniCS Tutorial [@Langtangen2016].:
 
 # State of the field                                                                                                                  
 
