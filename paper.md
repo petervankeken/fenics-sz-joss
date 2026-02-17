@@ -17,7 +17,7 @@ authors:
   - name: Kidus Teshome
     corresponding: true # (This is how to denote the corresponding author)
     affiliation: 1
-  - name: N. Sime
+  - name: Nate Sime
     orcid: 0000-0002-2319-048X
     equal-contrib: true
     affiliation: 1  # (Multiple affiliations must be quoted)
@@ -33,18 +33,18 @@ affiliations:
  - name: Earth and Planets Laboratory, Carnegie Intitution for Science, Washington D.C., United States
    index: 1
    ror: https://ror.org/04jr01610
- - name: Institution Name, Country
-   index: 2
- - name: Independent Researcher, Country
-   index: 3
-date: 13 August 2017
+# - name: Institution Name, Country
+#   index: 2
+# - name: Independent Researcher, Country
+#   index: 3
+date: 17 February 2026
 bibliography: paper.bib
 
 # Optional fields if submitting to a AAS journal too, see this blog post:
 # https://blog.joss.theoj.org/2018/12/a-new-collaboration-with-aas-publishing
-aas-doi: 10.3847/xxxxx <- update this with the DOI from AAS once you know it.
-aas-journal: Astrophysical Journal <- The name of the AAS journal.
----
+#aas-doi: 10.3847/xxxxx <- update this with the DOI from AAS once you know it.
+#aas-journal: Astrophysical Journal <- The name of the AAS journal.
+#---
 
 # Summary
 
