@@ -38,6 +38,8 @@ bibliography: paper.bib
 
 Plate tectonics ... subduction zones ... volcanoes, earthquakes,.... metamorphism .... temperature control [@van_Keken2023-jy]
 
+Figure of SZ thermal structure with oceanic and continental Moho.
+
 # Statement of need
 
 `FEniCS-SZ` is cool and is based on @Wilson2023-hr.
@@ -46,9 +48,22 @@ Plate tectonics ... subduction zones ... volcanoes, earthquakes,.... metamorphis
 that explore the FEM examples in @Wilson2023-hr.
 The didactic nature of these tutorials (progressing from the stand-alone Poisson and Stokes equations, reproduction of mantle convection benchmarks, 
 to the fully coupledset of time-dependent equations used in the subduction models)
-augments the FEniCSX Tutorial [@fenicsx], which is itself built on the FEniCS Tutorial [@Langtangen2016].:
+augments the FEniCSX Tutorial [@fenicsx], which is itself built on the FEniCS Tutorial [@Langtangen2016].
 
-# State of the field                                                                                                                  
+# Comparison with other approaches
+
+Thermal models of subduction zones that are most useful in the prediction of metamorphic dehydration reactions and their role in seismogenesis and seismic structure,
+slab dehydration, arc volcanism, and the long term chemical evolution of the Earth require high numerical resolution, 
+faithful gridding of material boundaries (such as the slab surface and oceanic Moho), and ability to handle velocity discontinuities along the
+seismogenic zone and its extension to about 80 km depth. 
+Semi-analytical techniques can be used successfully along the shallow plate interface to limited depth (see discussion and references in @vanKeken2019), 
+but the effects of the cornerflow with realistic mantle rheology requires numerical solution of the Stokes and heat equations.
+A number of dynamical approaches exist that can be used to trace subduction zone thermal evolution
+(@HoltCondit2021, @Gerya2011) but these provide slab evolution models that are difficult to use when predicting the thermal structure of present-day subduction zones 
+since geometry and convergence parameters such as convergence speed cannot be controlled.
+Other workers have provided finite element and finite difference approaches to study the thermal structure (e.g. Wada and Wang; Katz; Lin; King). While these approaches have shown good comparisons with other codes in a benchmark (vK09) or in direct comparisons (vK23b) they are generally not available as open source software. 
+
+ 
 
 
 # Software design
