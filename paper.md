@@ -36,7 +36,7 @@ bibliography: paper.bib
 
 # Summary
 
-Plate tectonics ... subduction zones ... volcanoes, earthquakes,.... metamorphism .... temperature control [@vanKeken2023b]
+Plate tectonics ... subduction zones ... volcanoes, earthquakes,.... metamorphism .... temperature control [@vanKeken2023-a]
 
 Figure of SZ thermal structure with oceanic and continental Moho.
 
@@ -66,7 +66,7 @@ Other workers have provided finite element and finite difference approaches to s
 (e.g. @WadaWang2009; @LeeKing2009; @Lin2010; @ReesJones2018; @vanZelst2023). 
 These approaches have shown good comparisons with other codes in a code intercomparison [@vanKeken2008], 
 by reproduction of benchmark cases therein,
-or in direct intercomparisons [@vanKeken2023b]. 
+or in direct intercomparisons [@vanKeken2023-b]. 
 Many of these subduction implementations, however, are not readily available as open source software even if they are based on general
 open source finite element software.
 
@@ -86,6 +86,6 @@ No information or code was harmed by AI.
 # Acknowledgements
 
 We acknowledge support from the National Science Foundation (NSF) grants (EAR-1850634 and EAR-202102) and
-the Carnegie Institution for Science through its summer intern programs (SURI, 2023 and EPIIC, 2024) sponsored principally by NSF (EAR-2244322) DUE XXXX.
+the Carnegie Institution for Science through its summer intern programs (SURI, 2023 and EPIIC, 2024) sponsored principally by NSF EAR-2244322.
 
 # References
