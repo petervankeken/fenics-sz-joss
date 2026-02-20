@@ -36,16 +36,16 @@ bibliography: paper.bib
 
 # Summary
 
-Plate tectonics ... subduction zones ... volcanoes, earthquakes,.... metamorphism .... temperature control [@van_Keken2023-jy]
+Plate tectonics ... subduction zones ... volcanoes, earthquakes,.... metamorphism .... temperature control [@vanKeken2023b]
 
 Figure of SZ thermal structure with oceanic and continental Moho.
 
 # Statement of need
 
-`FEniCS-SZ` is cool and is based on @Wilson2023-hr.
+`FEniCS-SZ` is cool and is based on @Wilson2023.
 
 `FEniCS-SZ` is intended also for classroom use and interactive work via a Jupyter notebooks [@fenics-szj] 
-that explore the FEM examples in @Wilson2023-hr.
+that explore the FEM examples in @Wilson2023.
 The didactic nature of these tutorials (progressing from the stand-alone Poisson and Stokes equations, reproduction of mantle convection benchmarks, 
 to the fully coupledset of time-dependent equations used in the subduction models)
 augments the FEniCSX Tutorial [@fenicsx], which is itself built on the FEniCS Tutorial [@Langtangen2016].
@@ -59,9 +59,15 @@ seismogenic zone and its extension to about 80 km depth.
 Semi-analytical techniques can be used successfully along the shallow plate interface to limited depth (see discussion and references in @vanKeken2019), 
 but the effects of the cornerflow with realistic mantle rheology requires numerical solution of the Stokes and heat equations.
 A number of dynamical approaches exist that can be used to trace subduction zone thermal evolution
-(@HoltCondit2021, @Gerya2011) but these provide slab evolution models that are difficult to use when predicting the thermal structure of present-day subduction zones 
+(@HoltCondit2021, @Gerya2011) but these provide slab evolution models that are difficult to use when 
+predicting the thermal structure of present-day subduction zones 
 since geometry and convergence parameters such as convergence speed cannot be controlled.
-Other workers have provided finite element and finite difference approaches to study the thermal structure (e.g. Wada and Wang; Katz; Lin; King). While these approaches have shown good comparisons with other codes in a benchmark (vK09) or in direct comparisons (vK23b) they are generally not available as open source software. 
+Other workers have provided finite element and finite difference approaches to study the thermal structure 
+(e.g. @WadaWang2009; @LeeKing2009; @Lin2010; @ReesJones2018; @vanZelst2023). 
+While these approaches have shown good comparisons with other codes in a code intercomparison [@vanKeken2008], 
+by reproduction of benchmark cases therein,
+or in direct intercomparisons [@vanKeken2023b]. 
+Many of these subduction implementations, however, are not readily available as open source software. 
 
  
 
@@ -79,6 +85,6 @@ No information or code was harmed by AI.
 # Acknowledgements
 
 We acknowledge support from the National Science Foundation (NSF) grants (EAR-1850634 and EAR-202102) and
-the Carnegie Institution for Science through its summer intern program sponsored in part by NSF XXXX.
+the Carnegie Institution for Science through its summer intern programs (SURI, 2023 and EPIIC, 2024) sponsored principally by NSF DUE XXXX.
 
 # References
