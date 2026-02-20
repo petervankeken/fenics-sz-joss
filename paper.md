@@ -64,10 +64,11 @@ predicting the thermal structure of present-day subduction zones
 since geometry and convergence parameters such as convergence speed cannot be controlled.
 Other workers have provided finite element and finite difference approaches to study the thermal structure 
 (e.g. @WadaWang2009; @LeeKing2009; @Lin2010; @ReesJones2018; @vanZelst2023). 
-While these approaches have shown good comparisons with other codes in a code intercomparison [@vanKeken2008], 
+These approaches have shown good comparisons with other codes in a code intercomparison [@vanKeken2008], 
 by reproduction of benchmark cases therein,
 or in direct intercomparisons [@vanKeken2023b]. 
-Many of these subduction implementations, however, are not readily available as open source software. 
+Many of these subduction implementations, however, are not readily available as open source software even if they are based on general
+open source finite element software.
 
  
 
@@ -85,6 +86,6 @@ No information or code was harmed by AI.
 # Acknowledgements
 
 We acknowledge support from the National Science Foundation (NSF) grants (EAR-1850634 and EAR-202102) and
-the Carnegie Institution for Science through its summer intern programs (SURI, 2023 and EPIIC, 2024) sponsored principally by NSF DUE XXXX.
+the Carnegie Institution for Science through its summer intern programs (SURI, 2023 and EPIIC, 2024) sponsored principally by NSF (EAR-2244322) DUE XXXX.
 
 # References
