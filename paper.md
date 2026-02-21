@@ -1,5 +1,5 @@
 ---
-title: 'FEniCS-SZ: two-dimensional modeling of the thermal structure of subduction zones'
+title: 'FEniCS-SZ: Two-dimensional modeling of the thermal structure of subduction zones'
 tags:
   - Python
   - Jupyter
@@ -53,7 +53,7 @@ Figure of SZ thermal structure with oceanic and continental Moho.
 
 `FEniCS-SZ` is cool and is based on @Wilson2023.
 
-`FEniCS-SZ` is intended also for classroom use and interactive work via a Jupyter notebooks [@fenics-szj] 
+`FEniCS-SZ` is intended also for classroom use and interactive work via Jupyter notebooks [@fenics-szj] 
 that explore the FEM examples in @Wilson2023.
 The didactic nature of these tutorials (progressing from the stand-alone Poisson and Stokes equations, reproduction of mantle convection benchmarks, 
 to the fully coupledset of time-dependent equations used in the subduction models)
