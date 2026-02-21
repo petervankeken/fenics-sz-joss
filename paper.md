@@ -49,7 +49,6 @@ corresponding thermally activated processes such as metamorphic reactions
 To understand the short- and long-term evolution of the tectonic and geological processes it is critically important to understand
 the thermal structure of subduction zones [@vanKeken2023-a].
 
-![This description will be the figure caption](path/to/image.png)
 ![Figure of SZ thermal structure with oceanic and continental Moho.](./Tohoku.png)
 
 `FEniCS-SZ` is cool and is based on @Wilson2023.
