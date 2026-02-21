@@ -87,6 +87,7 @@ open source finite element software.
 
 # Research impact statement
 
+Reference papers using predicted thermal structure?
 
 # AI usage disclosure
 
