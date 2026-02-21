@@ -36,6 +36,9 @@ bibliography: paper.bib
 
 # Summary
 
+
+# Statement of need
+
 Plate tectonics on Earth is the surface expression of the slow convective release of heat from its interior.
 Subduction zones form the location of the return flow of mantle convection and are sites of mountain building and significant 
 natural hazards in the form of earthquakes and explosive volcanism. 
@@ -46,10 +49,8 @@ corresponding thermally activated processes such as metamorphic reactions
 To understand the short- and long-term evolution of the tectonic and geological processes it is critically important to understand
 the thermal structure of subduction zones [@vanKeken2023-a].
 
-
-Figure of SZ thermal structure with oceanic and continental Moho.
-
-# Statement of need
+![This description will be the figure caption](path/to/image.png)
+![Figure of SZ thermal structure with oceanic and continental Moho.](./Tohoku.png)
 
 `FEniCS-SZ` is cool and is based on @Wilson2023.
 
@@ -59,7 +60,7 @@ The didactic nature of these tutorials (progressing from the stand-alone Poisson
 to the fully coupledset of time-dependent equations used in the subduction models)
 augments the FEniCSX Tutorial [@fenicsx], which is itself built on the FEniCS Tutorial [@Langtangen2016].
 
-# Comparison with other approaches
+# State of the field
 
 Thermal models of subduction zones that are most useful in the prediction of metamorphic dehydration reactions and their role in seismogenesis and seismic structure,
 slab dehydration, arc volcanism, and the long term chemical evolution of the Earth require high numerical resolution, 
