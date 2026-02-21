@@ -36,7 +36,16 @@ bibliography: paper.bib
 
 # Summary
 
-Plate tectonics ... subduction zones ... volcanoes, earthquakes,.... metamorphism .... temperature control [@vanKeken2023-a]
+Plate tectonics on Earth is the surface expression of the slow convective release of heat from its interior.
+Subduction zones form the location of the return flow of mantle convection and are sites of mountain building and significant 
+natural hazards in the form of earthquakes and explosive volcanism. 
+The depth extent of large and sometimes tsunamogenic earthquakes,
+intermediate-depth earthquakes, and melt formation are linked to thermal transitions and 
+corresponding thermally activated processes such as metamorphic reactions 
+(including those causing dehydration and release of volatile phases such as water and carbon). 
+To understand the short- and long-term evolution of the tectonic and geological processes it is critically important to understand
+the thermal structure of subduction zones [@vanKeken2023-a].
+
 
 Figure of SZ thermal structure with oceanic and continental Moho.
 
