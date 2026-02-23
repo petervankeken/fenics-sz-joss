@@ -36,6 +36,9 @@ bibliography: paper.bib
 
 # Summary
 
+Suggested editor: Jed Brown
+
+Suggested referees: Jorgen Dokken, Adam Holt, Scott King.
 
 # Statement of need
 
@@ -87,7 +90,9 @@ open source finite element software.
 
 # Research impact statement
 
-Reference papers using predicted thermal structure?
+Reference papers using predicted thermal structure - highlight ability for researchers to expand this to interpolate existing models differently, use different geometries and assumptions for subduction parametrs, wedge rheology, and coupling depth to become a general purpose modeling tool for the yhermal structure of subduction zones worldwide.
+
+Class room use demonstrated by Prof. Geoff Abers (Cornell) in ...
 
 # AI usage disclosure
 
