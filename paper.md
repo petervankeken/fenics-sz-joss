@@ -38,7 +38,7 @@ bibliography: paper.bib
 
 Suggested editor: Jed Brown
 
-Suggested referees: Jorgen Dokken, Adam Holt, Scott King.
+Suggested referees: Jørgen Dokken, Adam Holt, Scott King.
 
 # Statement of need
 
@@ -94,7 +94,7 @@ Reference papers using predicted thermal structure - highlight ability for resea
 
 Software is based on intensive research experience of two undergraduate students.
 
-Class room use demonstrated by Prof. Geoff Abers (Cornell) in ...
+Class room use demonstrated by Prof. Geoff Abers (Cornell) in EAS4040 "Geodynamics".
 
 # AI usage disclosure
 
