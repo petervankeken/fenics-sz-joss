@@ -92,6 +92,8 @@ open source finite element software.
 
 Reference papers using predicted thermal structure - highlight ability for researchers to expand this to interpolate existing models differently, use different geometries and assumptions for subduction parametrs, wedge rheology, and coupling depth to become a general purpose modeling tool for the yhermal structure of subduction zones worldwide.
 
+Software is based on intensive research experience of two undergraduate students.
+
 Class room use demonstrated by Prof. Geoff Abers (Cornell) in ...
 
 # AI usage disclosure
